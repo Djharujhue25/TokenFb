@@ -1,5 +1,4 @@
 # INSTALL BAHAN TOOL
-$ termux-setup-storage
 
 $ pkg update && upgrade
 
@@ -10,6 +9,8 @@ $ pkg install git
 $ pip install bs4
 
 $ pip install requests
+
+$ pip install cython
 
 $ pip install mechanize
 
